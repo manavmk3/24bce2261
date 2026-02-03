@@ -1,0 +1,25 @@
+.a {
+    font-family:cursive;
+    color: red; 
+    font-size: 30px;
+    list-style-type: upper-roman;
+    width: 80%;
+    margin: 30px auto;
+}
+.a li:hover {
+    background-color: lightpink;
+    font-weight: bold;
+}
+.b {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+    font-size: 25px;
+    list-style-type:circle;
+    margin-top: 6px;
+    margin-left: 20px; 
+}
+.b  li:hover {
+    background-color:yellow;
+    color: #880e4f;
+    font-style: italic;
+}
